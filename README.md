@@ -1,5 +1,3 @@
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---------------------
 ## Introduction:
 The Celestial Bodies Dataset was scraped from Wikipedia using requests and BeautifulSoup for
@@ -20,3 +18,6 @@ application of machine learning models for further investigation.
 The dataset is helpful in analyzing celestial bodies as it encompasses different types like planets,
 stars, moons, and other celestial entities. From this analysis, the insight about celestial body type and their
 characteristic features would be gained, which helps in building the classification models.
+----------
+## License:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
